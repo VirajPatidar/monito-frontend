@@ -17,7 +17,7 @@ Monito is a user-friendly responsive chat bot in the form of a web app that can 
 
 **Link to the website:** [https://monito-app.netlify.app](https://monito-app.netlify.app/)
 <br/>
-**Link to backend repo:** [https://github.com/Triad-Devs/monito-backend](https://github.com/Triad-Devs/monito-backend)
+**Link to backend repo:** [https://github.com/VirajPatidar/monito-backend](https://github.com/VirajPatidar/monito-backend)
 <br/>
 **Application demo video link:** [https://youtu.be/mQOaj5VSs1w](https://youtu.be/mQOaj5VSs1w)
 
